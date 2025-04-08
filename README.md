@@ -11,4 +11,4 @@ This repository contains a sample implementation of Object-Oriented Programming 
 ## Class Diagram
 The following class diagram illustrates the relationships between the classes in the codebase:
 
-![classDiagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Mesh29909/oop-sample-open/refs/heads/main/docs/class-diagram.puml?token=GHSAT0AAAAAADB4KSWL5ZICSOG2JLGQHSWOZ7VLHMA)
+![classDiagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Mesh29909/oop-sample-open/refs/heads/main/docs/class-diagram.puml)
