@@ -7,3 +7,8 @@ This repository contains a sample implementation of Object-Oriented Programming 
 ## Features
 - **OOP Principles**: Encapsulation, immutability adn single responsibility
 - **Domain-Driven Design Concepts**: Bounded Contexts, Aggregates, Value Objects.
+
+## Class Diagram
+The following class diagram illustrates the relationships between the classes in the codebase:
+
+![classDiagram](https://www.planttext.com/)
